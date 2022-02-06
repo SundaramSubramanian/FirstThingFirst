@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9G7laOLUf+1M/eWwAKLTt0h8xBFkkuihruzkYYKiTdM=",
+  "Hash": "w9Az9X0uMw3GiHWXMYunb0w6/zkXq/jL8TMzjg3UhaU=",
   "Source": "FirstThingFirst",
   "BasePath": "/",
   "Mode": "Root",
@@ -7631,6 +7631,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "E:\\Projects\\FirstThingFirst\\FirstThingFirst\\FirstThingFirst\\FirstThingFirst\\wwwroot\\Images\\FTF.png",
+      "SourceId": "FirstThingFirst",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projects\\FirstThingFirst\\FirstThingFirst\\FirstThingFirst\\FirstThingFirst\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Images/FTF.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\FTF.png"
     },
     {
       "Identity": "E:\\Projects\\FirstThingFirst\\FirstThingFirst\\FirstThingFirst\\FirstThingFirst\\wwwroot\\index.html",
