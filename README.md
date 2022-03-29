@@ -1,7 +1,7 @@
 # First Things First - Smart ToDo App
  Smart ToDo App Build with Blazor WASM, SQL Server. 
 
-#Features 
+###### Features 
 
 1) Registration & Login Pages 
 2) Dashboard with informatives 
